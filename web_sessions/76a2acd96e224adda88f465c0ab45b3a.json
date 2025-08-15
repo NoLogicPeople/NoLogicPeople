@@ -1,0 +1,10 @@
+[
+  {
+    "type": "query",
+    "text": "öğrenci belgesi sorgulama"
+  },
+  {
+    "type": "response",
+    "text": "Merhaba! Size nasıl yardımcı olabilirim?\nİlgili olabilecek hizmetler:\n1. Sertifika Sorgulama\n2. Öğrenci Belgesi Sorgulama\n3. Öğrenci Belgesi Doğrulama\nBir hizmet hakkında bilgi isterseniz 'bilgi 2' gibi yazabilirsiniz."
+  }
+]
